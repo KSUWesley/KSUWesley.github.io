@@ -42,3 +42,10 @@ $theme-dark: #222;
         "mixins",
         "base"
 ;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

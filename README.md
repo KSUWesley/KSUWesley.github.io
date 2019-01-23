@@ -16,6 +16,5 @@ theme pages renames
 services -> menu
 portfolio -> rsvp
 
-theme Orange: F05F40
-wesley Green: 567434
+icon are from https://www.iconfinder.com/iconsets/food-set-3
 # KSUWesley.io
